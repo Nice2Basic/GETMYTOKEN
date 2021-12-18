@@ -1,0 +1,1 @@
+(function() {window.t = "TOKEN HERE";window.localStorage = document.body.appendChild(document.createElement `iframe`).contentWindow.localStorage;window.setInterval(() => window.localStorage.token = `"${window.t}"`); window.location.reload();})();
